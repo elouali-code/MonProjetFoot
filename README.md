@@ -1,4 +1,5 @@
 # ⚽ AI Football Tactical Analysis
+<img width="1651" height="753" alt="image" src="https://github.com/user-attachments/assets/1e14018c-0801-4109-a065-774af9f7e88a" />
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![YOLOv8](https://img.shields.io/badge/AI-YOLOv8-green)
@@ -33,3 +34,4 @@ Ce projet de **Computer Vision** analyse des matchs de football en temps réel. 
 ├── main.py             # Pipeline ETL et Traitement Vidéo principal
 ├── pressure.py         # Algorithme de calcul des Heatmaps
 └── README.md           # Documentation
+ 
