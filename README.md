@@ -25,6 +25,9 @@ Ce projet de **Computer Vision** analyse des matchs de football en temps réel. 
   - Calcul de la "Pression" exercée par une équipe via des gaussiennes.
 - **Visualisation** : Génération automatique de deux flux vidéo (Détection + Radar Tactique).
 
+
+<img width="1411" height="836" alt="image" src="https://github.com/user-attachments/assets/1f986641-f0c7-4fcf-9a30-f197572ab8de" />
+
 ## 📂 Structure du Projet
 
 ```text
@@ -34,4 +37,4 @@ Ce projet de **Computer Vision** analyse des matchs de football en temps réel. 
 ├── main.py             # Pipeline ETL et Traitement Vidéo principal
 ├── pressure.py         # Algorithme de calcul des Heatmaps
 └── README.md           # Documentation
- 
+
