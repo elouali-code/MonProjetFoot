@@ -6,7 +6,7 @@
 ![OpenCV](https://img.shields.io/badge/Computer_Vision-OpenCV-red)
 ![Data Engineering](https://img.shields.io/badge/Role-Data%20Engineer-orange)
 
-Ce projet de **Computer Vision** analyse des matchs de football en temps réel. Il utilise l'intelligence artificielle pour détecter les joueurs, l'arbitre et le ballon, puis projette leurs positions sur une carte tactique 2D (Radar) grâce à une transformation homographique pour générer des **Heatmaps** de pression.
+Ce projet de **Computer Vision** analyse des matchs de football en temps réel. Il détect les joueurs, l'arbitre et le ballon, puis projette leurs positions sur une carte tactique 2D (Radar) grâce à une transformation homographique pour générer des **Heatmaps** de pression.
 
 ---
 
