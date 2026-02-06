@@ -1,4 +1,4 @@
-# ⚽ AI Football Tactical Analysis
+# AI Football Tactical Analysis
 <img width="1651" height="753" alt="image" src="https://github.com/user-attachments/assets/1e14018c-0801-4109-a065-774af9f7e88a" />
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
@@ -10,13 +10,13 @@ Ce projet de **Computer Vision** analyse des matchs de football en temps réel. 
 
 ---
 
-## 👨‍💻 Auteur
+## Auteur
 
 **EL OUALI Abderrahman** *Data Engineer*
 
 ---
 
-## 🚀 Fonctionnalités Clés
+## Fonctionnalités Clés
 
 - **Détection d'objets (YOLOv8)** : Identification précise des joueurs (par équipe), arbitres et du ballon.
 - **Transformation de Perspective (Homographie)** : Conversion des coordonnées vidéo (3D) vers un plan tactique (2D) à l'aide de matrices OpenCV.
@@ -28,7 +28,7 @@ Ce projet de **Computer Vision** analyse des matchs de football en temps réel. 
 
 <img width="1411" height="836" alt="image" src="https://github.com/user-attachments/assets/1f986641-f0c7-4fcf-9a30-f197572ab8de" />
 
-## 📂 Structure du Projet
+## Structure du Projet
 
 ```text
 ├── best.pt             # Modèle IA entraîné (YOLOv8 custom)
